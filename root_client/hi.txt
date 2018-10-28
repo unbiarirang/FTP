@@ -1,0 +1,3 @@
+IT's hi.txt ^_^
+line2
+line3
